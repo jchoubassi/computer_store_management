@@ -1,10 +1,18 @@
-Computer Store Inventory Management System
+# Computer Store Inventory Management System
 
-This program simulates a computer store inventory system. Using the menu, you can act as a worker by viewing, sorting, adding, updating, and deleting devices from the inventory. You can then save the inventory to an updated txt file, separate from the original used to upload the inventory initially. 
+This program simulates a computer store inventory system. It allows users to manage a store’s inventory of desktop, laptop, and tablet computers.
 
-Though not necessary, I have included a Makefile for easier compilation, especially for a project a but larger like this.
+## Features
+- Display and sort the inventory
+- Search by category, type, ID, or price
+- Add, update, or delete computers
+- Save the updated inventory to a file
 
-To comp & run:
+## Getting Started
+
+### Compile and Run
+
+```bash
 make clean
 make
 ./store
