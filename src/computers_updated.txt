@@ -1,0 +1,19 @@
+Laptop,Business,LTB1,HP,Intel Core i5,8,256,15.6,1647
+Laptop,Business,LTB2,APPLE,Apple,16,512,16,4299
+Laptop,Business,LTB3,LENOVO,AMD Ryzen 5,16,512,13.3,1787
+Laptop,Business,LTB4,ASUS,Intel Core i7,16,512,14,1552
+Laptop,Gaming,LTG1,ASUS,Intel Core i5,16,512,15.6,1840
+Laptop,Gaming,LTG2,HP,AMD Ryzen 5,8,256,15.6,1307
+Laptop,Home & Study,LTHS1,APPLE,Apple,8,256,13.3,1728
+Laptop,Home & Study,LTHS2,LENOVO,Intel Core i5,8,256,14,954
+Laptop,Home & Study,LTHS3,MICROSOFT,Intel Core i5,8,128,12.4,1189
+Laptop,Thin & Light,LTSL1,APPLE,Apple,8,256,13.3,1728
+Laptop,Thin & Light,LTSL2,APPLE,Apple,8,512,13.3,2499
+Tablet,Android,TBAD1,LENOVO,Snapdragon,10,214
+Tablet,Android,TBAD2,LENOVO,Mediatek,11,578
+Tablet,Apple,TBAP1,APPLE,Apple,12.2,819
+Tablet,Apple,TBAP2,APPLE,Apple,12.9,878
+Tablet,Apple,TBAP3,APPLE,Apple,12.9,2499
+Tablet,Windows,TBWD1,MICROSOFT,Intel Pentium,10.5,694
+Tablet,Windows,TBWD2,MICROSOFT,Intel Core i5,13,1798
+Desktop,Gaming,1997,Asus,AMD Ryzen 7,32,1000,2400
